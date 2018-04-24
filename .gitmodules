@@ -1,0 +1,9 @@
+[submodule "ardener-wifi"]
+	path = ardener-wifi
+	url = git@github.com:mic47/ardener-wifi.git
+[submodule "ardener-server"]
+	path = ardener-server
+	url = git@github.com:mic47/ardener-server.git
+[submodule "ardener-device"]
+	path = ardener-device
+	url = git@github.com:mic47/ardener.git
