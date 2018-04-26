@@ -1,11 +1,11 @@
 [submodule "ardener-wifi"]
-	path = ardener-wifi
+	path = wifi
 	url = git@github.com:mic47/ardener-wifi.git
 [submodule "ardener-server"]
 	path = server
 	url = git@github.com:mic47/ardener-server.git
 [submodule "ardener-device"]
-	path = ardener-device
+	path = device
 	url = git@github.com:mic47/ardener.git
 [submodule "ESP8266_NONOS_SDK"]
 	path = ESP8266_NONOS_SDK
