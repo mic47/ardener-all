@@ -10,3 +10,6 @@
 [submodule "ESP8266_NONOS_SDK"]
 	path = ESP8266_NONOS_SDK
 	url = git@github.com:espressif/ESP8266_NONOS_SDK.git
+[submodule "SerialESP8266wifi"]
+	path = SerialESP8266wifi
+	url = https://github.com/mic47/ESP8266wifi
